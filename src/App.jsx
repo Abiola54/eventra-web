@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { EventProvider } from './context/EventContext'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Home from './pages/Home'
 import Events from './pages/Events'
 import About from './pages/About'
