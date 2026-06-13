@@ -1,3 +1,34 @@
+# Eventra – Event Discovery Platform
+
+Eventra is a responsive event discovery platform that allows users to browse and explore upcoming events through an engaging user interface.
+
+## Live Demo
+
+https://eventra-web-rust.vercel.app
+
+## Features
+
+* Event browsing experience
+* Responsive design
+* Interactive user interface
+* Cross-device compatibility
+* Clean and modern layout
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## What I Learned
+
+This project improved my frontend development skills, responsive design practices, and ability to build interactive web applications.
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
